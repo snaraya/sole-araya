@@ -1,2 +1,3 @@
 # sole-araya
-CV
+Repositorio para crear mi CV actualizado.
+
